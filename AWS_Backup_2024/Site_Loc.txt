@@ -1,0 +1,33 @@
+Tegal			-6.868166 		109.1209608
+Gunung Sitoli	1.165106 		97.704584
+Palu			-0.916019		119.90518
+Fak-Fak			-2.919324		132.264938
+Kaimana			-3.643831		133.696869
+Tarempa			3.2162			106.2183
+Cut Bau Sabang	5.313331 		95.12961
+Malikussaleh	5.81392 		96.34616
+Meulaboh		4.049			96.2478
+Sibolga			1.553099 		98.897437
+Japura Rengat	-0.349350		102.334084
+Dabo Singkep	-4781			104.5767
+Tanjung Pandan	-2.7502			107.7502
+Luwuk			-1.0423			122.7709
+Gorontalo		0.6385			122.8524
+Toli-Toli		1.1211			120.7943
+Poso			-1.4203			120.6569
+Tarakan			3.327173 		117.570436
+Sumbawa			-8.4883			117.4133
+Ternate			0.8292			127.3816
+Sarmi			-1.8725			138.7519
+Tanah Merah		-6.0988			140.3011
+Bawean			-5.8511			112.6579
+Tual			-5.7542			132.7577
+Saumlaki		-7.9824			131.2982
+Maumere			-8.6354			122.2377
+Waingapu		-9.6693			120.2997
+Rote			-10.7663		123.0736
+Ranai			3.9119			108.3934
+Sanana			-2.0702			125.9789
+Geser			-3.8867			130.8954
+Bengkulu		-3.8583			102.3364
+Manokwari		-1.5105561		134.1772874
