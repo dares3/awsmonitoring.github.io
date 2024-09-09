@@ -144,11 +144,12 @@ fig = px.scatter_mapbox(df, lat="lat", lon="lon", center = center, size = size, 
 						color='status', zoom=3.5, title = 'TBR AWS CENTER',
 						mapbox_style='open-street-map')
 #'''
-plot(fig, auto_open=True)
+plot(fig)
 
 #shutil.copyfile('temp-plot.html','/var/www/html/temp-plot.html')
 shutil.copyfile('temp-plot.html','/home/tbr-obs/dares3.github.io/temp-plot.html')
 os.system("cd /home/tbr-obs/dares3.github.io/")
+os.system("git remote set-url 'origin' git@github.com:dares3/dares3.github.io.git")
 os.system("git add .")
 os.system("git commit -am 'updated'")
 os.system("git push")
